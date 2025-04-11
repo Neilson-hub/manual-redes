@@ -53,22 +53,6 @@ Sempre utilize links diretos para documentação oficial Mikrotik:
 
 
 
-## 🚀 Como publicar no GitHub:
-
-1. **Crie uma conta no GitHub:**  
-[GitHub - Sign Up](https://github.com/signup)
-
-2. **Crie um novo repositório:**  
-- Clique em "New repository".  
-- Dê um nome claro (ex.: `manual-mikrotik-rede`).  
-- Escolha "Public" para disponibilizar a todos.
-
-3. **Suba seus arquivos:**
-- Clone o repositório no seu computador usando Git:
-```shell
-git clone https://github.com/seu-usuario/manual-mikrotik-rede.git
-
-
 # Script de Failover para Mikrotik
 
 Este script realiza failover automático para múltiplos links configurados nas interfaces `ether1`, `ether2` e `ether3` do Mikrotik.
