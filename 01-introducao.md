@@ -12,13 +12,14 @@ Este manual detalha a implementação prática de uma rede LAN utilizando equipa
 - [Introdução](01-introducao.md)
 - [Topologia da Rede](02-topologia.md)
 - [Configuração Básica do Mikrotik](03-configuracao-basica.md)
-- [Configuração de VLANs](vlan.md)
-- [Regras de Firewall e Segurança](firewall.md)
+- [Segurança Física](04-seguranca-fisica.md)
+- [Regras de Firewall e Segurança](05-firewall.md)
+- [Configuração de VLANs](06-vlan.md)
+
 - [Configuração Wi-Fi](wifi.md)
 - [Monitoramento e Avaliação](monitoramento.md)
-- [Segurança Física](seguranca-fisica.md)
 - [Referências Técnicas](referencias.md)
-
+- 
 
 
 
