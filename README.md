@@ -4,7 +4,6 @@ Este manual detalha a implementação prática de uma rede LAN utilizando equipa
 
 ## 📋 Tópicos abordados:
 
-## 📋 Tópicos abordados:
 
 - 📘 Introdução
 - 🗺️ Topologia da Rede
