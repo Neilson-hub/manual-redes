@@ -4,6 +4,16 @@ Este manual detalha a implementação prática de uma rede LAN utilizando equipa
 
 ---
 
+## 📑 Índice
+
+- [📚 Manual Completo - Configuração Mikrotik para Rede LAN de Alto Desempenho e Baixo Custo](#-manual-completo---configuração-mikrotik-para-rede-lan-de-alto-desempenho-e-baixo-custo)
+  - [📑 Índice](#-índice)
+  - [📋 Tópicos abordados:](#-tópicos-abordados)
+  - [🧰 Tecnologias e Ferramentas Utilizadas](#-tecnologias-e-ferramentas-utilizadas)
+  - [📥 Clone este repositório](#-clone-este-repositório)
+  - [🛡️ Licença](#️-licença)
+
+---
 ## 📋 Tópicos abordados:
 
 
