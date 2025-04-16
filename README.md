@@ -22,6 +22,9 @@ Este manual detalha a implementação prática de uma rede LAN utilizando equipa
 [![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0052CC?style=for-the-badge&logo=ubiquiti&logoColor=white)](https://www.ui.com/)
 [![RouterOS](https://img.shields.io/badge/RouterOS-FF6F00?style=for-the-badge&logo=linux&logoColor=white)](https://mikrotik.com/software)
 [![Visual Studio Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-S
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+
 
 Cada tópico está estruturado em seções específicas, facilitando a configuração ⚙️, manutenção 🔧 do equipamento e entendimento claro 📐 da topologia de rede proposta.
