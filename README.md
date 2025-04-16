@@ -16,4 +16,12 @@ Este manual detalha a implementação prática de uma rede LAN utilizando equipa
 - 📊 Monitoramento e Avaliação
 
 
+## 🧰 Tecnologias e Ferramentas Utilizadas
+
+[![Mikrotik](https://img.shields.io/badge/Mikrotik-2B2D42?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com/)
+[![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0052CC?style=for-the-badge&logo=ubiquiti&logoColor=white)](https://www.ui.com/)
+[![RouterOS](https://img.shields.io/badge/RouterOS-FF6F00?style=for-the-badge&logo=linux&logoColor=white)](https://mikrotik.com/software)
+[![Visual Studio Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+S
+
 Cada tópico está estruturado em seções específicas, facilitando a configuração ⚙️, manutenção 🔧 do equipamento e entendimento claro 📐 da topologia de rede proposta.
