@@ -2,6 +2,8 @@
 
 Este manual detalha a implementação prática de uma rede LAN utilizando equipamentos Mikrotik e Ubiquiti, projetada para atender até **48 hosts cabeados** e **20 dispositivos Wi-Fi**. O conteúdo prioriza alto desempenho 🚀, segurança robusta 🔐 e economia 💰, oferecendo uma configuração completa e prática.
 
+---
+
 ## 📋 Tópicos abordados:
 
 
@@ -14,7 +16,7 @@ Este manual detalha a implementação prática de uma rede LAN utilizando equipa
 - 📶 Configuração de Wi-Fi
 - 🔄 Failover Automático
 - 📊 Monitoramento e Avaliação
-
+---
 
 ## 🧰 Tecnologias e Ferramentas Utilizadas
 
@@ -25,6 +27,21 @@ Este manual detalha a implementação prática de uma rede LAN utilizando equipa
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+
+---
+
+## 📥 Clone este repositório
+
+```bash
+git clone https://github.com/Neilson-hub/manual-redes.git
+```
+
+---
+
+## 🛡️ Licença
+
+📘 Manual desenvolvido por [Neilson Ferreira](https://github.com/Neilson-hub)  
+🛡️ Licença: [MIT](https://opensource.org/licenses/MIT)
 
 
 Cada tópico está estruturado em seções específicas, facilitando a configuração ⚙️, manutenção 🔧 do equipamento e entendimento claro 📐 da topologia de rede proposta.
