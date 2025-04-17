@@ -1,11 +1,17 @@
-# Manual-redes
+# 📘 Manual Mikrotik - Rede LAN com Alto Desempenho e Baixo Custo
 
+Este manual mostra, passo a passo, como configurar uma rede local (LAN) com equipamentos Mikrotik.  
+A rede foi projetada para até **48 computadores via cabo** e **20 dispositivos Wi-Fi**, oferecendo bom desempenho, segurança e economia.
 
-manual-mikrotik-rede
+Aqui você encontra instruções práticas e comandos prontos para configurar:
 
-# Manual Completo - Configuração Mikrotik Rede LAN de Alto Desempenho e Baixo Custo
+- Servidor DHCP
+- VLANs
+- Firewall
+- Wi-Fi
+- Failover (backup de link)
 
-Este manual detalha a implementação prática de uma rede LAN utilizando equipamentos Mikrotik para 48 hosts cabeados e 20 dispositivos Wi-Fi, priorizando alto desempenho, segurança e economia.
+---
 
 ## Sumário
 
